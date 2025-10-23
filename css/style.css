@@ -1,0 +1,28 @@
+header {
+  background-color: #0020f4;
+  height: 300px;
+}
+.conteiner {
+  display: flex;
+  justify-content: center;
+  max-width: 1500px;
+  padding-top: 50px;
+  flex-wrap: wrap;
+}
+ul,
+li,
+nav {
+  display: inline-block;
+}
+a {
+  color: aliceblue;
+  padding-right: 40px;
+}
+header img {
+  padding-right: 160px;
+}
+button {
+  background-color: #ffffff;
+  height: 30px;
+  border-radius: 20px;
+}
